@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 160 90"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="slack-v1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.53669881"
+     inkscape:cx="883.17692"
+     inkscape:cy="609.28028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.083333333"
+       spacingy="0.083333333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path29" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <rect
+       x="79.625004"
+       y="361.27988"
+       width="1760.3751"
+       height="198.72013"
+       id="rect5" />
+    <rect
+       x="80.000002"
+       y="320.00001"
+       width="880"
+       height="122.46187"
+       id="rect4" />
+    <rect
+       x="40.000001"
+       y="240.00001"
+       width="1805.8594"
+       height="96.624992"
+       id="rect3" />
+    <rect
+       x="40.000001"
+       y="40.000001"
+       width="1840.0001"
+       height="120.00001"
+       id="rect2" />
+    <rect
+       x="40.000001"
+       y="320.00001"
+       width="1840.0001"
+       height="400.00001"
+       id="rect1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter9"
+       inkscape:label="glow">
+      <feGaussianBlur
+         stdDeviation="1"
+         id="feGaussianBlur9" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.08333333)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline"><tspan
+         x="252.75"
+         y="124.9375"
+         id="tspan1">Case study - tree supervision</tspan></text>
+    <g
+       id="graph"
+       transform="translate(60,1.666667)"
+       inkscape:label="graph"
+       style="display:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+         d="M 65.000002,36.666668 64.999996,60"
+         id="chan-posts-ws-output"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g22"
+         transform="translate(-43.17585,-3.4908154)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+           id="rect21"
+           width="26.509188"
+           height="5.1574807"
+           x="95"
+           y="80" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="96.299118"
+           y="83.855095"
+           id="text21"><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="96.299118"
+             y="83.855095">(main-view)</tspan></text>
+      </g>
+      <g
+         id="g23"
+         transform="translate(-86.666667,-3.3333312)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="94.632462"
+           y="83.776352"
+           id="text22"><tspan
+             sodipodi:role="line"
+             id="tspan22"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="94.632462"
+             y="83.776352">(chan-list)</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+           id="rect23"
+           width="26.666668"
+           height="5"
+           x="93.333336"
+           y="80" />
+      </g>
+      <g
+         id="chan-view-process"
+         transform="translate(-30.83333,-15.000001)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="84.698044"
+           y="79.209618"
+           id="text24"><tspan
+             sodipodi:role="line"
+             id="tspan24"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="84.698044"
+             y="79.209618">(chan-view</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+           id="chan-view-box"
+           width="26.666668"
+           height="9.999999"
+           x="82.5"
+           y="75"
+           inkscape:label="rect24" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="85.815765"
+           y="83.410271"
+           id="chan-view-arg"><tspan
+             sodipodi:role="line"
+             id="tspan25"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="85.815765"
+             y="83.410271">:clojure)</tspan></text>
+      </g>
+      <g
+         id="chan-posts-ws-process"
+         transform="translate(-30.833329,-48.175854)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="80.469658"
+           y="79.023849"
+           id="text26"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="80.469658"
+             y="79.023849">(chan-posts-ws</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+           id="chan-posts-ws-box"
+           width="33.333336"
+           height="9.9999971"
+           x="79.166664"
+           y="74.842522" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+           x="85.815765"
+           y="83.157326"
+           id="chan-posts-ws-arg"><tspan
+             sodipodi:role="line"
+             id="tspan27"
+             style="font-size:3.55556px;stroke-width:0.0833333"
+             x="85.815765"
+             y="83.157326">:clojure)</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+         d="m 64.999996,69.999999 0.0787,6.509184"
+         id="chan-view-output" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker31)"
+         d="M 33.333333,79.166669 51.82415,79.087929"
+         id="path30"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g42"
+         transform="translate(-86.666667,-14.999998)" />
+      <g
+         id="profile-view-process"
+         transform="translate(-50.833337,-31.666665)" />
+      <g
+         id="user-status-ws-process"
+         transform="translate(-72.499998,-48.175854)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+         x="33.569496"
+         y="82.847054"
+         id="chan-list-value"><tspan
+           sodipodi:role="line"
+           id="tspan36"
+           style="font-size:3.55556px;stroke-width:0.0833333"
+           x="33.569496"
+           y="82.847054">:clojure</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.55556px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.0833333"
+         x="66.666672"
+         y="41.666668"
+         id="chan-posts-ws-value"><tspan
+           sodipodi:role="line"
+           id="tspan49"
+           style="font-size:3.55556px;stroke-width:0.0833333"
+           x="66.666672"
+           y="41.666668">&quot;Hello clojure&quot;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+         x="60"
+         y="23.333334"
+         id="text7"
+         transform="translate(-60,-1.666667)"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:5.33333px;stroke-width:0.0833333"
+           x="60"
+           y="23.333334">User event : change active channel</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+       x="6.666667"
+       y="30"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:5.33333px;stroke-width:0.0833333"
+         x="6.666667"
+         y="30">- channel list</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+       x="6.666667"
+       y="36.666664"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:5.33333px;stroke-width:0.0833333"
+         x="6.666667"
+         y="36.666664">- channel view</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold Semi-Condensed';stroke-width:0.0833333;font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="6.666667"
+       y="23.333334"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan2">Slack client v1</tspan></text>
+    <g
+       id="g2"
+       transform="translate(-2.0861626e-7,18.333336)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19"
+         width="10"
+         height="1.6666666"
+         x="6.666666"
+         y="40.416668" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12"
+         width="36.666664"
+         height="3.3333333"
+         x="16.66667"
+         y="41.666672" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13"
+         width="36.666664"
+         height="3.3333333"
+         x="16.66667"
+         y="45.000004" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect14"
+         width="36.666664"
+         height="3.3333333"
+         x="16.666668"
+         y="48.333336" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15"
+         width="36.666664"
+         height="3.3333333"
+         x="16.66667"
+         y="51.666668" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect16"
+         width="36.666664"
+         height="3.3333333"
+         x="16.666668"
+         y="55.000004" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17"
+         width="36.666664"
+         height="3.3333333"
+         x="16.666668"
+         y="58.333336" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="46.666668"
+         height="28.333338"
+         x="6.6666665"
+         y="36.666664" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7"
+         width="46.666668"
+         height="1.6666703"
+         x="6.6666665"
+         y="36.666664" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8"
+         width="10.000001"
+         height="26.66667"
+         x="6.6666665"
+         y="38.333332" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9"
+         width="36.666668"
+         height="3.3333316"
+         x="16.666668"
+         y="61.666668" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+         x="7.5"
+         y="40"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+           x="7.5"
+           y="40">Channels</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0833333;stroke-opacity:1"
+         x="7.5"
+         y="41.666668"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0833333;stroke-opacity:1"
+           x="7.5"
+           y="41.666668">#clojure</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+         x="7.5"
+         y="43.333336"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+           x="7.5"
+           y="43.333336">#random</tspan></text>
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0787402;stroke-dasharray:none;stroke-opacity:1"
+         id="path19"
+         cx="52.083332"
+         cy="37.5"
+         r="0.41666666" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0787402;stroke-dasharray:none;stroke-opacity:1"
+         id="circle19"
+         cx="50.833336"
+         cy="37.5"
+         r="0.41666666" />
+      <circle
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0787402;stroke-dasharray:none;stroke-opacity:1"
+         id="circle20"
+         cx="49.583336"
+         cy="37.5"
+         r="0.41666666" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.314961;stroke-dasharray:none;stroke-opacity:1"
+         id="rect20"
+         width="36.666664"
+         height="2.5"
+         x="16.666666"
+         y="38.333332" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+         x="17.5"
+         y="40"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+           x="17.5"
+           y="40">#clojure</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+       x="17.916668"
+       y="78.75"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.0833333"
+         x="17.916668"
+         y="78.75">Hello clojure</tspan></text>
+  </g>
+  <script
+     xlink:href="slack-v1.js"
+     id="script1" />
+</svg>

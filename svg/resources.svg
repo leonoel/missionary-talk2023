@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 160 90"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="resources.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.37950337"
+     inkscape:cx="1180.4902"
+     inkscape:cy="677.20083"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.083333333"
+       spacingy="0.083333333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="79.625004"
+       y="361.27988"
+       width="1760.3751"
+       height="198.72013"
+       id="rect5" />
+    <rect
+       x="80.000002"
+       y="320.00001"
+       width="880"
+       height="122.46187"
+       id="rect4" />
+    <rect
+       x="40.000001"
+       y="240.00001"
+       width="1805.8594"
+       height="96.624992"
+       id="rect3" />
+    <rect
+       x="40.000001"
+       y="40.000001"
+       width="1840.0001"
+       height="240.00002"
+       id="rect2" />
+    <rect
+       x="40.000001"
+       y="320.00001"
+       width="1840.0001"
+       height="400.00001"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="scale(0.08333333)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline"><tspan
+         x="248.90625"
+         y="124.9375"
+         id="tspan3">Concurrency is hard because </tspan><tspan
+         x="233.17969"
+         y="244.9375"
+         id="tspan7">resource maintenance is hard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10"
+       y="83.333336"
+       id="label-10"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="10"
+         y="83.333336">- sharing exacerbates the problem (e.g. cache eviction)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10"
+       y="76.666672"
+       id="label-09"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="10"
+         y="76.666672">- garbage collection doesn't help</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10"
+       y="70.000008"
+       id="label-08"><tspan
+         sodipodi:role="line"
+         id="tspan5-1-5"
+         x="10"
+         y="70.000008">- leads to performance issues and memory leaks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10"
+       y="63.333336"
+       id="label-07"><tspan
+         sodipodi:role="line"
+         id="tspan5-1"
+         x="10"
+         y="63.333336">- maintenance is accidental and error-prone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10.128912"
+       y="46.628906"
+       id="label-03"><tspan
+         sodipodi:role="line"
+         id="tspan5-5"
+         x="10.128912"
+         y="46.628906">- contaminates processes : parked threads and fibers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;stroke-width:0.0833333"
+       x="10"
+       y="40"
+       id="label-02"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="10"
+         y="40">- sockets, UI components, event handlers</tspan></text>
+    <g
+       id="label-00"
+       style="display:none"
+       inkscape:label="label-00">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.0833333"
+         x="6.666667"
+         y="56.666668"
+         id="label-06"><tspan
+           sodipodi:role="line"
+           id="tspan6-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:5.33333px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0833333"
+           x="6.666667"
+           y="56.666668">Problem - a resource has a lifecycle</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:5.33333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.0833333"
+         x="6.666667"
+         y="33.333336"
+         id="label-01"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:5.33333px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0833333"
+           x="6.666667"
+           y="33.333336">Resource = an object with a time dimension</tspan></text>
+    </g>
+  </g>
+  <script
+     xlink:href="simple.js"
+     id="script1" />
+</svg>
